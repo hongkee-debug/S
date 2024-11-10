@@ -25,16 +25,16 @@ if n==3: #三角形
     print((a*h/2))
     print("周长：")
     print((a+h+a))
-if n==4: #圆形
-    print("半径：")
-    r=int(input())
-    print("面积：")
-    print((r**2)*3.14)
-    print("周长：")
-    print((2*3.14*r))
-if n==5: #梯形
-    print("上底：")
-    a=int(input())
+if n== 4 : #圆形
+    print ( "半径：" )
+    r= int (输入( ) )
+    print ( "面积：" )
+    打印（（ r ** 2 ） * 3.14 ）
+    print ( "周长：" )
+    打印（（2 * 3.14 * r ））
+if n== 5 : #梯形
+    print ( "上底：" )
+    a= int (输入( ) )
     print("下底：")
     b=int(input())
     print("高：")
